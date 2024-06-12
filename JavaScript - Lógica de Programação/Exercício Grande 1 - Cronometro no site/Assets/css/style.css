@@ -65,3 +65,12 @@ form button:hover {
 .bad {
   background: rgb(255, 150, 150);
 }
+
+.relogio {
+  font-size: 2em;
+
+}
+
+.pause {
+  color: red;
+}
